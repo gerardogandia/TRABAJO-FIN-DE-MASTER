@@ -1,0 +1,17 @@
+{
+  "name": "tfm",
+  "version": "1.0.0",
+  "description": "programacion paralela",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gerardo Gandia",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "json-socket": "^0.3.0",
+    "portfinder": "^1.0.20",
+    "q": "^1.5.1"
+  }
+}
